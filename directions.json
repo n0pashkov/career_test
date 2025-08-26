@@ -1,0 +1,379 @@
+{
+  "directions": [
+    {
+      "id": 1,
+      "name": "Графический дизайн",
+      "grades": [7, 8, 9],
+      "description": "Основы работы с визуальной графикой, креативное мышление, визуальные проекты",
+      "link": "",
+      "tags": {
+        "creativity": 5,
+        "technology": 3,
+        "visual": 5,
+        "artistic": 5,
+        "logical": 2,
+        "practical": 4,
+        "competition": 1,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 2,
+      "name": "Медиацентр",
+      "grades": [7, 8, 9],
+      "description": "Создание образовательного пространства для социализации с помощью ИТ и медиа",
+      "link": "",
+      "tags": {
+        "creativity": 4,
+        "technology": 4,
+        "visual": 4,
+        "artistic": 3,
+        "logical": 2,
+        "practical": 4,
+        "competition": 2,
+        "presentation": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Шахматный клуб",
+      "grades": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "preferredGrades": [1, 2, 3, 4],
+      "description": "Улучшает логику и внимание, развивает стратегическое мышление",
+      "link": "",
+      "tags": {
+        "creativity": 2,
+        "technology": 1,
+        "visual": 1,
+        "artistic": 1,
+        "logical": 5,
+        "practical": 2,
+        "competition": 5,
+        "presentation": 2
+      }
+    },
+    {
+      "id": 4,
+      "name": "Основы конструирования роботов",
+      "grades": [2, 3, 4],
+      "description": "Работа с базовыми конструкторами, развитие инженерного мышления",
+      "link": "",
+      "tags": {
+        "creativity": 3,
+        "technology": 4,
+        "visual": 2,
+        "artistic": 1,
+        "logical": 4,
+        "practical": 5,
+        "competition": 2,
+        "presentation": 3
+      }
+    },
+    {
+      "id": 5,
+      "name": "Спортивная робототехника",
+      "grades": [5, 6, 7],
+      "description": "Соревновательная робототехника",
+      "link": "",
+      "tags": {
+        "creativity": 3,
+        "technology": 5,
+        "visual": 2,
+        "artistic": 1,
+        "logical": 5,
+        "practical": 5,
+        "competition": 5,
+        "presentation": 3
+      }
+    },
+    {
+      "id": 6,
+      "name": "Компьютерная грамотность",
+      "grades": [2, 3, 4, 5],
+      "description": "Базовые навыки работы с ПК",
+      "link": "",
+      "tags": {
+        "creativity": 2,
+        "technology": 4,
+        "visual": 2,
+        "artistic": 1,
+        "logical": 3,
+        "practical": 5,
+        "competition": 1,
+        "presentation": 3
+      }
+    },
+    {
+      "id": 7,
+      "name": "IT аэро (квадрокоптеры)",
+      "grades": [7, 8, 9],
+      "description": "Управление дронами",
+      "link": "",
+      "tags": {
+        "creativity": 3,
+        "technology": 5,
+        "visual": 3,
+        "artistic": 2,
+        "logical": 4,
+        "practical": 5,
+        "competition": 4,
+        "presentation": 3
+      }
+    },
+    {
+      "id": 8,
+      "name": "KoduGameLab",
+      "grades": [4, 5, 6, 7],
+      "description": "Простая визуальная среда программирования игр",
+      "link": "",
+      "tags": {
+        "creativity": 4,
+        "technology": 4,
+        "visual": 4,
+        "artistic": 3,
+        "logical": 4,
+        "practical": 3,
+        "competition": 2,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 9,
+      "name": "Scratch",
+      "grades": [3, 4, 5],
+      "description": "Основы программирования в визуальной среде",
+      "link": "",
+      "tags": {
+        "creativity": 4,
+        "technology": 4,
+        "visual": 4,
+        "artistic": 3,
+        "logical": 4,
+        "practical": 3,
+        "competition": 2,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 10,
+      "name": "Python",
+      "grades": [6, 7, 8, 9, 10, 11],
+      "description": "Алгоритмы и программирование на языке Python",
+      "link": "",
+      "tags": {
+        "creativity": 3,
+        "technology": 5,
+        "visual": 2,
+        "artistic": 1,
+        "logical": 5,
+        "practical": 4,
+        "competition": 4,
+        "presentation": 3
+      }
+    },
+    {
+      "id": 11,
+      "name": "Системное администрирование",
+      "grades": [5, 6, 7, 8, 9, 10, 11],
+      "description": "Настройка компьютеров, сетей",
+      "link": "",
+      "tags": {
+        "creativity": 2,
+        "technology": 5,
+        "visual": 1,
+        "artistic": 1,
+        "logical": 5,
+        "practical": 5,
+        "competition": 2,
+        "presentation": 2
+      }
+    },
+    {
+      "id": 12,
+      "name": "Arduino UNO",
+      "grades": [5, 6, 7, 8, 9],
+      "description": "Работа с микроконтроллерами, электроникой",
+      "link": "",
+      "tags": {
+        "creativity": 3,
+        "technology": 5,
+        "visual": 2,
+        "artistic": 1,
+        "logical": 4,
+        "practical": 5,
+        "competition": 3,
+        "presentation": 3
+      }
+    },
+    {
+      "id": 13,
+      "name": "Небесный атлас",
+      "grades": [6, 7, 8, 9],
+      "description": "Астрономия, наблюдения, работа с атласами",
+      "link": "",
+      "tags": {
+        "creativity": 2,
+        "technology": 3,
+        "visual": 4,
+        "artistic": 2,
+        "logical": 3,
+        "practical": 3,
+        "competition": 2,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 14,
+      "name": "3D моделирование",
+      "grades": [5, 6, 7, 8, 9],
+      "description": "Создание 3D объектов",
+      "link": "",
+      "tags": {
+        "creativity": 5,
+        "technology": 4,
+        "visual": 5,
+        "artistic": 4,
+        "logical": 3,
+        "practical": 4,
+        "competition": 2,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 15,
+      "name": "Roblox",
+      "grades": [3, 4],
+      "description": "Разработка игр в Roblox Studio",
+      "link": "",
+      "tags": {
+        "creativity": 5,
+        "technology": 3,
+        "visual": 4,
+        "artistic": 4,
+        "logical": 3,
+        "practical": 3,
+        "competition": 2,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 16,
+      "name": "Шаг в виртуальную реальность",
+      "grades": [4, 5],
+      "description": "Основы VR",
+      "link": "",
+      "tags": {
+        "creativity": 4,
+        "technology": 4,
+        "visual": 5,
+        "artistic": 3,
+        "logical": 3,
+        "practical": 3,
+        "competition": 2,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 17,
+      "name": "Создание игр в Godot",
+      "grades": [7, 8, 9, 10, 11],
+      "description": "Разработка игр на игровом движке Godot",
+      "link": "",
+      "tags": {
+        "creativity": 4,
+        "technology": 5,
+        "visual": 3,
+        "artistic": 3,
+        "logical": 5,
+        "practical": 4,
+        "competition": 3,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 18,
+      "name": "Дизайн-код (Figma → AR)",
+      "grades": [5, 6, 7, 8, 9, 10],
+      "description": "От дизайна в Figma до дополненной реальности",
+      "link": "",
+      "tags": {
+        "creativity": 5,
+        "technology": 4,
+        "visual": 5,
+        "artistic": 5,
+        "logical": 3,
+        "practical": 4,
+        "competition": 2,
+        "presentation": 5
+      }
+    },
+    {
+      "id": 19,
+      "name": "Лаборатория XR",
+      "grades": [8, 9, 10, 11],
+      "description": "AR/VR: Unity, Unreal, C#, проектное мышление",
+      "link": "",
+      "tags": {
+        "creativity": 4,
+        "technology": 5,
+        "visual": 4,
+        "artistic": 3,
+        "logical": 5,
+        "practical": 4,
+        "competition": 3,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 20,
+      "name": "Разработка VR приложений",
+      "grades": [5, 6, 7],
+      "description": "Практическая разработка приложений в VR",
+      "link": "",
+      "tags": {
+        "creativity": 4,
+        "technology": 5,
+        "visual": 4,
+        "artistic": 3,
+        "logical": 4,
+        "practical": 5,
+        "competition": 3,
+        "presentation": 4
+      }
+    },
+    {
+      "id": 21,
+      "name": "Чертёжник Pro",
+      "grades": [5, 6, 7],
+      "description": "Основы черчения, проектирования",
+      "link": "",
+      "tags": {
+        "creativity": 3,
+        "technology": 2,
+        "visual": 4,
+        "artistic": 3,
+        "logical": 4,
+        "practical": 5,
+        "competition": 2,
+        "presentation": 3
+      }
+    },
+    {
+      "id": 22,
+      "name": "Основы алгоритмизации",
+      "grades": [9],
+      "description": "Базовые алгоритмы и логика",
+      "link": "",
+      "tags": {
+        "creativity": 2,
+        "technology": 4,
+        "visual": 1,
+        "artistic": 1,
+        "logical": 5,
+        "practical": 3,
+        "competition": 3,
+        "presentation": 2
+      }
+    }
+  ]
+}

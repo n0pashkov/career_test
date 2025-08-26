@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "grade",
+      "required": true,
+      "question": "В каком классе ты учишься?",
+      "options": [
+        { "value": 1, "label": "1 класс" },
+        { "value": 2, "label": "2 класс" },
+        { "value": 3, "label": "3 класс" },
+        { "value": 4, "label": "4 класс" },
+        { "value": 5, "label": "5 класс" },
+        { "value": 6, "label": "6 класс" },
+        { "value": 7, "label": "7 класс" },
+        { "value": 8, "label": "8 класс" },
+        { "value": 9, "label": "9 класс" },
+        { "value": 10, "label": "10 класс" },
+        { "value": 11, "label": "11 класс" }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "interests",
+      "question": "Что тебе больше всего нравится делать?",
+      "multiple": false,
+      "options": [
+        {
+          "value": "creative",
+          "label": "Создавать что-то красивое и креативное",
+          "tags": { "creativity": 3, "artistic": 3, "visual": 2 }
+        },
+        {
+          "value": "logical",
+          "label": "Решать логические задачи и головоломки",
+          "tags": { "logical": 3, "competition": 1 }
+        },
+        {
+          "value": "technical",
+          "label": "Работать с техникой и технологиями",
+          "tags": { "technology": 3, "practical": 2 }
+        },
+        {
+          "value": "research",
+          "label": "Изучать и исследовать новое",
+          "tags": { "logical": 2, "presentation": 2 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "activity_type",
+      "question": "Какой тип деятельности тебе ближе?",
+      "multiple": false,
+      "options": [
+        {
+          "value": "visual_creative",
+          "label": "Рисовать, проектировать, создавать визуальные проекты",
+          "tags": { "creativity": 2, "visual": 3, "artistic": 3 }
+        },
+        {
+          "value": "programming",
+          "label": "Программировать и создавать приложения",
+          "tags": { "technology": 3, "logical": 2 }
+        },
+        {
+          "value": "building",
+          "label": "Собирать и конструировать устройства",
+          "tags": { "practical": 3, "technology": 2 }
+        },
+        {
+          "value": "competing",
+          "label": "Участвовать в соревнованиях и олимпиадах",
+          "tags": { "competition": 3, "logical": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "complexity",
+      "question": "Какой уровень сложности тебе интересен?",
+      "multiple": false,
+      "options": [
+        {
+          "value": "beginner",
+          "label": "Начать с основ, изучать постепенно",
+          "tags": { "practical": 1 }
+        },
+        {
+          "value": "intermediate",
+          "label": "Средний уровень, с элементами вызова",
+          "tags": { "logical": 1, "technology": 1 }
+        },
+        {
+          "value": "advanced",
+          "label": "Сложные задачи, готов к вызовам",
+          "tags": { "logical": 2, "technology": 2, "competition": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "work_style",
+      "question": "Как ты предпочитаешь работать в группе?",
+      "multiple": false,
+      "options": [
+        {
+          "value": "leader",
+          "label": "Быть лидером проекта и направлять команду",
+          "tags": { "presentation": 2, "competition": 1 }
+        },
+        {
+          "value": "collaborator",
+          "label": "Активно участвовать в совместной работе",
+          "tags": { "presentation": 1 }
+        },
+        {
+          "value": "specialist",
+          "label": "Фокусироваться на своей области экспертизы",
+          "tags": { "logical": 1, "practical": 1 }
+        },
+        {
+          "value": "supporter",
+          "label": "Поддерживать команду и помогать другим",
+          "tags": { "practical": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "presentation",
+      "question": "Как ты относишься к презентации своих работ?",
+      "multiple": false,
+      "options": [
+        {
+          "value": "love_presenting",
+          "label": "Обожаю рассказывать о своих проектах",
+          "tags": { "presentation": 3, "creativity": 1 }
+        },
+        {
+          "value": "comfortable",
+          "label": "Готов представить результат, если нужно",
+          "tags": { "presentation": 1 }
+        },
+        {
+          "value": "prefer_demo",
+          "label": "Предпочитаю показать, а не рассказывать",
+          "tags": { "practical": 1, "visual": 1 }
+        },
+        {
+          "value": "behind_scenes",
+          "label": "Лучше работать 'за кулисами'",
+          "tags": { "logical": 1, "technology": 1 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "output_preference",
+      "question": "Что тебе больше нравится создавать?",
+      "multiple": false,
+      "options": [
+        {
+          "value": "visual_art",
+          "label": "Красивые картинки, дизайны, видео",
+          "tags": { "visual": 3, "artistic": 2, "creativity": 2 }
+        },
+        {
+          "value": "interactive",
+          "label": "Интерактивные программы и игры",
+          "tags": { "technology": 2, "creativity": 2, "logical": 1 }
+        },
+        {
+          "value": "physical",
+          "label": "Реальные устройства и механизмы",
+          "tags": { "practical": 3, "technology": 2 }
+        },
+        {
+          "value": "knowledge",
+          "label": "Исследования и новые знания",
+          "tags": { "logical": 2, "presentation": 2 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "motivation",
+      "question": "Что больше всего мотивирует тебя в обучении?",
+      "multiple": false,
+      "options": [
+        {
+          "value": "competition",
+          "label": "Возможность участвовать в соревнованиях",
+          "tags": { "competition": 3, "logical": 1 }
+        },
+        {
+          "value": "creativity",
+          "label": "Свобода творчества и самовыражения",
+          "tags": { "creativity": 3, "artistic": 2 }
+        },
+        {
+          "value": "practical_skills",
+          "label": "Получение полезных практических навыков",
+          "tags": { "practical": 3, "technology": 1 }
+        },
+        {
+          "value": "future_career",
+          "label": "Подготовка к будущей профессии",
+          "tags": { "logical": 1, "technology": 2, "presentation": 1 }
+        }
+      ]
+    }
+  ]
+}
