@@ -344,7 +344,7 @@
     {
       "id": 21,
       "name": "Чертёжник Pro",
-      "grades": [5, 6, 7],
+      "grades": [4, 5, 6, 7],
       "description": "Основы черчения, проектирования",
       "link": "",
       "tags": {
@@ -358,22 +358,6 @@
         "presentation": 3
       }
     },
-    {
-      "id": 22,
-      "name": "Основы алгоритмизации",
-      "grades": [9],
-      "description": "Базовые алгоритмы и логика",
-      "link": "",
-      "tags": {
-        "creativity": 2,
-        "technology": 4,
-        "visual": 1,
-        "artistic": 1,
-        "logical": 5,
-        "practical": 3,
-        "competition": 3,
-        "presentation": 2
-      }
-    }
+   
   ]
 }
