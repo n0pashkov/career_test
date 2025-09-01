@@ -307,25 +307,9 @@
         "presentation": 5
       }
     },
+   
     {
       "id": 19,
-      "name": "Лаборатория XR",
-      "grades": [8, 9, 10, 11],
-      "description": "AR/VR: Unity, Unreal, C#, проектное мышление",
-      "link": "",
-      "tags": {
-        "creativity": 4,
-        "technology": 5,
-        "visual": 4,
-        "artistic": 3,
-        "logical": 5,
-        "practical": 4,
-        "competition": 3,
-        "presentation": 4
-      }
-    },
-    {
-      "id": 20,
       "name": "Разработка VR приложений",
       "grades": [5, 6, 7],
       "description": "Практическая разработка приложений в VR",
@@ -342,7 +326,7 @@
       }
     },
     {
-      "id": 21,
+      "id": 20,
       "name": "Чертёжник Pro",
       "grades": [4, 5, 6, 7],
       "description": "Основы черчения, проектирования",
